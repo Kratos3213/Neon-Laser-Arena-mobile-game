@@ -1,0 +1,6 @@
+{
+  "name": "Neon Laser Arena",
+  "description": "High-octane physics-based 3D laser shooter with multiplayer dual arenas, online leaderboards, and generative AI match highlight commentators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
